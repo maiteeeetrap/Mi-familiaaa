@@ -1,0 +1,35 @@
+{
+  "personas": "Mi familia",
+  "listas": [
+    {
+      "nombre": "Olaf",
+      "numerof": 4,
+      "trabajo": false,
+      "nacimiento": "2021-10-21"
+    },
+    {
+      "nombre": "Leonardo",
+      "numerof": 74,
+      "trabajo": true,
+      "nacimiento": "1974-11-10"
+    },
+    {
+      "nombre": "Lucky",
+      "numerof": 3,
+      "trabajo": false,
+      "nacimiento": "2021-10-21"
+    },
+    {
+      "nombre": "Marizol",
+      "numerof": 67,
+      "trabajo": true,
+      "nacimiento": "1981-09-09"
+    },
+    {
+      "nombre": "Tomas",
+      "numerof": 84,
+      "trabajo": false,
+      "nacimiento": "2007-12-17"
+    }
+  ]
+}
